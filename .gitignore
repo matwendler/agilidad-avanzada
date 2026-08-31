@@ -5,3 +5,6 @@
 # scratchpad / temporales
 scratchpad/
 *.tmp
+
+# symlinks al motor LearningSchema (rutas absolutas locales)
+.claude/
