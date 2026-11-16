@@ -8,6 +8,8 @@ scratchpad/
 
 # symlinks al motor LearningSchema (rutas absolutas locales)
 .claude/
+
+# repo privado del equipo de MARQ, si se vuelve a clonar acá
 marq-consultoria/
 
 # el repo es público: nada de datos de clientes ni PDFs con copyright nuevos

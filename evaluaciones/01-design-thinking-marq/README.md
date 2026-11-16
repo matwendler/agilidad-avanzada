@@ -20,10 +20,14 @@ Consultoría de Design Thinking para MARQ (desarrollos inmobiliarios, Resistenci
 
 El trabajo del equipo vive en un repositorio aparte, **privado**, porque contiene transcripciones de entrevistas con personas reales:
 
-- Local: `../../marq-consultoria/` (ignorado por este repo, que es público)
-- Remoto: `github.com/AlexanderVilla47/marq-consultoria`
+- Remoto: https://github.com/AlexanderVilla47/marq-consultoria
+- Para volver a entrar, clonarlo en la raíz de este repo (la carpeta ya está en `.gitignore`):
 
-Lo que se entregó: cinco técnicas ubicadas en el Double Diamond (Personas, Mapa de empatía, Customer Journey Map, Lluvia de ideas y selección, Service Blueprint) y la propuesta resultante, **Hilo y Huella**. El punto de entrada es `marq-consultoria/README.md`.
+  ```
+  git clone https://github.com/AlexanderVilla47/marq-consultoria.git marq-consultoria
+  ```
+
+Lo que se entregó: cinco técnicas ubicadas en el Double Diamond (Personas, Mapa de empatía, Customer Journey Map, Lluvia de ideas y selección, Service Blueprint) y la propuesta resultante, **Hilo y Huella**. El punto de entrada es el `README.md` de ese repo.
 
 La preparación previa quedó en esta misma carpeta:
 
