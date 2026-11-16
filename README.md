@@ -7,8 +7,9 @@ Repositorio de material de la asignatura electiva **Agilidad Avanzada** (Ingenie
 ```
 .
 ├── programa/          Programa analítico oficial (PDF + resumen navegable)
-├── evaluaciones/      Las dos instancias sumativas: consigna, rúbrica, plan
-├── actividades/       Talleres, salidas y prácticas, una carpeta por actividad
+├── evaluaciones/      Las dos instancias sumativas, cada una con todo su material
+│   ├── 01-design-thinking-marq/   ✅ aprobada — consigna, preparación, entrevista
+│   └── 02-videopodcast/           ⏳ en curso — consigna, material, guiones
 ├── unidades/          Apuntes por unidad temática
 │   ├── 01-design-thinking/         ✅ con material
 │   ├── 02-lean-startup/            ⏳
@@ -16,6 +17,9 @@ Repositorio de material de la asignatura electiva **Agilidad Avanzada** (Ingenie
 │   ├── 04-peopleware-management-3-0/ ⏳
 │   ├── 05-product-owner/           ⏳
 │   └── 06-agilidad-vida-profesional/ ⏳
+├── material/          Material propio para estudiar (audiolibro, inventarios) — LearningSchema
+├── ESTADO.md          Estado de la materia: fechas, temas, mapas y mazos
+├── bitacora.md        Una entrada por sesión de estudio
 └── recursos/
     ├── libros/            PDFs de la bibliografía obligatoria
     ├── lecturas/          Lecturas recomendadas (local, no se publica)
@@ -30,10 +34,9 @@ Repositorio de material de la asignatura electiva **Agilidad Avanzada** (Ingenie
 |---------|------|
 | Ver de qué se trata la materia, cómo se aprueba | [`programa/README.md`](programa/README.md) |
 | **Trabajar en la segunda instancia (videopodcast, entrega 25/11)** | [`evaluaciones/02-videopodcast/`](evaluaciones/02-videopodcast/) |
+| Ver los guiones del videopodcast | [`evaluaciones/02-videopodcast/guion/`](evaluaciones/02-videopodcast/guion/) |
 | Ver la primera instancia (MARQ, ✅ aprobada) | [`evaluaciones/01-design-thinking-marq/`](evaluaciones/01-design-thinking-marq/) |
 | Estudiar Design Thinking | [`unidades/01-design-thinking/`](unidades/01-design-thinking/) |
-| Preparar la primera reunión del proyecto de consultoría | [`unidades/01-design-thinking/proyecto-consultoria/`](unidades/01-design-thinking/proyecto-consultoria/) |
-| Prepararme para la entrevista con **Estudio MARQ** (vie 04/09) | [`actividades/2026-09-04-entrevista-estudio-marq/`](actividades/2026-09-04-entrevista-estudio-marq/) |
 | Buscar un método concreto (persona, journey map, HMW…) | [`recursos/fuentes-web/tisdd-00-indice-de-metodos.md`](recursos/fuentes-web/tisdd-00-indice-de-metodos.md) |
 | Ver todos los enlaces de la cátedra y su estado | [`recursos/enlaces.md`](recursos/enlaces.md) |
 
@@ -45,7 +48,7 @@ Repositorio de material de la asignatura electiva **Agilidad Avanzada** (Ingenie
 | El Proceso de Design Thinking | [02](unidades/01-design-thinking/02-proceso-design-thinking.md) |
 | Técnicas y Herramientas: Mapa de empatía, Service Blueprint, Customer Journey Map | [03](unidades/01-design-thinking/03-tecnicas-y-herramientas.md) |
 | Services Design Thinking | [04](unidades/01-design-thinking/04-service-design-thinking.md) |
-| Proyecto de consultoría — primera reunión | [carpeta](unidades/01-design-thinking/proyecto-consultoria/) |
+| Proyecto de consultoría (MARQ, ✅ terminado) | [carpeta](evaluaciones/01-design-thinking-marq/) |
 
 ### Bibliografía obligatoria (Unidad 1)
 

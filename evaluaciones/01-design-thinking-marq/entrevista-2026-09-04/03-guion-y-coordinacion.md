@@ -8,7 +8,7 @@
 
 Una entrevista con N grupos **no es N entrevistas**. Es **una sola entrevista facilitada** con roles repartidos.
 
-Ver [Facilitation 101](../../recursos/fuentes-web/dt-toolkit-facilitation-101.md): el facilitador guía el proceso, el grupo genera el contenido. Acá el "grupo" somos nosotros y el contenido lo aporta el cliente.
+Ver [Facilitation 101](../../../recursos/fuentes-web/dt-toolkit-facilitation-101.md): el facilitador guía el proceso, el grupo genera el contenido. Acá el "grupo" somos nosotros y el contenido lo aporta el cliente.
 
 ## Roles a repartir ANTES de la clase
 

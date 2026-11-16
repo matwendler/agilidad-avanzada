@@ -13,7 +13,7 @@ Material que la cátedra marcó explícitamente **para preparar la primera reuni
 ## Aplicación concreta
 
 📌 **Viernes 04/09/2026 — entrevista a Estudio MARQ**, cliente real traído por la cátedra.
-Preparación completa en [`actividades/2026-09-04-entrevista-estudio-marq/`](../../../actividades/2026-09-04-entrevista-estudio-marq/).
+Preparación completa en [`entrevista-2026-09-04/`](../entrevista-2026-09-04/).
 
 ## Documentos de trabajo
 

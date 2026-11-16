@@ -101,7 +101,7 @@ Marcar cuándo se entusiasma y cuándo se incomoda. La incomodidad marca el terr
 
 ## Los primeros 30 minutos — no se negocian
 
-Ver [Contextual interview — follow-up](../../recursos/fuentes-web/tisdd-contextual-interview.md): documentar **inmediatamente**, no al día siguiente. Lo que no se escribe en el momento se pierde o se deforma.
+Ver [Contextual interview — follow-up](../../../recursos/fuentes-web/tisdd-contextual-interview.md): documentar **inmediatamente**, no al día siguiente. Lo que no se escribe en el momento se pierde o se deforma.
 
 - [ ] Cada observador pasa en limpio su grilla **antes de irse** o esa misma tarde
 - [ ] Poner en común entre grupos: juntar todas las grillas en un solo lugar
@@ -112,14 +112,14 @@ Ver [Contextual interview — follow-up](../../recursos/fuentes-web/tisdd-contex
 
 Secuencia recomendada — es exactamente el proceso de la Unidad 1:
 
-1. **[Research wall](../../recursos/fuentes-web/tisdd-research-wall.md)** — todas las citas, fotos y observaciones en la pared. Clusterizar por tema, después por persona, después por etapa del proceso. Buscar **contradicciones** con lo que suponíamos.
-2. **[Key insights](../../recursos/fuentes-web/tisdd-developing-key-insights.md)** — pasar cada patrón a la fórmula:
+1. **[Research wall](../../../recursos/fuentes-web/tisdd-research-wall.md)** — todas las citas, fotos y observaciones en la pared. Clusterizar por tema, después por persona, después por etapa del proceso. Buscar **contradicciones** con lo que suponíamos.
+2. **[Key insights](../../../recursos/fuentes-web/tisdd-developing-key-insights.md)** — pasar cada patrón a la fórmula:
    > **[Quién] hace [qué] porque [necesidad], pero [fricción].**
    Cada insight con mínimo 2–3 piezas de evidencia.
-3. **[Persona](../../recursos/fuentes-web/tisdd-creating-personas.md)** — armar el arquetipo del actor principal (¿el comprador en pozo? ¿la arquitecta a cargo? ¿el jefe de obra?).
-4. **[Journey map](../../recursos/fuentes-web/tisdd-mapping-journeys.md)** current-state con curva emocional → salen los pain points.
-5. **[System map](../../recursos/fuentes-web/tisdd-mapping-systems.md)** con las personas y artefactos que cazamos.
-6. **[How Might We](../../recursos/fuentes-web/tisdd-how-might-we.md)** — recién acá se empieza a pensar en soluciones.
+3. **[Persona](../../../recursos/fuentes-web/tisdd-creating-personas.md)** — armar el arquetipo del actor principal (¿el comprador en pozo? ¿la arquitecta a cargo? ¿el jefe de obra?).
+4. **[Journey map](../../../recursos/fuentes-web/tisdd-mapping-journeys.md)** current-state con curva emocional → salen los pain points.
+5. **[System map](../../../recursos/fuentes-web/tisdd-mapping-systems.md)** con las personas y artefactos que cazamos.
+6. **[How Might We](../../../recursos/fuentes-web/tisdd-how-might-we.md)** — recién acá se empieza a pensar en soluciones.
 
 ## Control de calidad antes de dar por buena la síntesis
 

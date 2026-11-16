@@ -25,4 +25,7 @@ El trabajo del equipo vive en un repositorio aparte, **privado**, porque contien
 
 Lo que se entregó: cinco técnicas ubicadas en el Double Diamond (Personas, Mapa de empatía, Customer Journey Map, Lluvia de ideas y selección, Service Blueprint) y la propuesta resultante, **Hilo y Huella**. El punto de entrada es `marq-consultoria/README.md`.
 
-La preparación previa a la primera entrevista (dossier, hipótesis, guion) quedó en [`actividades/2026-09-04-entrevista-estudio-marq/`](../../actividades/2026-09-04-entrevista-estudio-marq/).
+La preparación previa quedó en esta misma carpeta:
+
+- [`preparacion/`](preparacion/) — material de la cátedra para la primera reunión, checklist y guion de entrevista contextual
+- [`entrevista-2026-09-04/`](entrevista-2026-09-04/) — dossier de la empresa, hipótesis de problema, guion y coordinación, plantilla de captura, transcripciones públicas

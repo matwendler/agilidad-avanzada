@@ -14,7 +14,7 @@
 - Hay que ir **preparado**: nos dieron la info de la empresa para investigarla a fondo antes.
 - Hay que **coordinar entre equipos** qué y cómo vamos a preguntar.
 
-> Traducción a método: esto es una **entrevista exploratoria** (no confirmatoria) con múltiples entrevistadores. Ver [Contextual interview](../../recursos/fuentes-web/tisdd-contextual-interview.md), [LUMA Interviewing](../../recursos/fuentes-web/luma-interviewing.md) y [Facilitation 101](../../recursos/fuentes-web/dt-toolkit-facilitation-101.md).
+> Traducción a método: esto es una **entrevista exploratoria** (no confirmatoria) con múltiples entrevistadores. Ver [Contextual interview](../../../recursos/fuentes-web/tisdd-contextual-interview.md), [LUMA Interviewing](../../../recursos/fuentes-web/luma-interviewing.md) y [Facilitation 101](../../../recursos/fuentes-web/dt-toolkit-facilitation-101.md).
 
 ## El cliente
 
@@ -43,7 +43,7 @@
 | [05-redes-y-contenido.md](05-redes-y-contenido.md) | Métricas reales de TikTok y YouTube (scrapeadas con yt-dlp) |
 | [transcripciones/](transcripciones/) | Entrevista radial de la directora + video institucional |
 
-Base teórica: [preparación de la primera reunión](../../unidades/01-design-thinking/proyecto-consultoria/primera-reunion.md) y [guion de entrevista contextual](../../unidades/01-design-thinking/proyecto-consultoria/guion-entrevista-contextual.md).
+Base teórica: [preparación de la primera reunión](../preparacion/primera-reunion.md) y [guion de entrevista contextual](../preparacion/guion-entrevista-contextual.md).
 
 ---
 

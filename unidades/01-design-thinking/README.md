@@ -16,7 +16,7 @@
 | 2 | El Proceso de Design Thinking | [02-proceso-design-thinking.md](02-proceso-design-thinking.md) |
 | 3 | Técnicas y Herramientas: Mapa de empatía, Service Blueprint, Customer Journey Map | [03-tecnicas-y-herramientas.md](03-tecnicas-y-herramientas.md) |
 | 4 | Services Design Thinking | [04-service-design-thinking.md](04-service-design-thinking.md) |
-| — | Proyecto de consultoría — primera reunión | [proyecto-consultoria/](proyecto-consultoria/) |
+| — | Proyecto de consultoría (MARQ, ✅ terminado) | [evaluaciones/01-design-thinking-marq/](../../evaluaciones/01-design-thinking-marq/) |
 
 ---
 

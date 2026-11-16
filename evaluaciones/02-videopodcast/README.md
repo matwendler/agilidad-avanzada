@@ -74,6 +74,16 @@ Esto no está resuelto en ningún archivo de esta carpeta, a propósito: es lo q
 5. Qué postura defienden en el cierre.
 6. Quién entrevista y quién responde.
 
+## Guiones y textos para publicar
+
+| Archivo | Qué es |
+|---|---|
+| [`guion/guion-completo.md`](guion/guion-completo.md) | El diálogo entero, los dos lados, con marcas de edición 🎬 |
+| [`guion/guion-ad.md`](guion/guion-ad.md) | El anuncio falso «Post-it Infinito», plano por plano |
+| [`guion/guion-entrevistador.md`](guion/guion-entrevistador.md) | Preguntas y repreguntas de Mateo, con reloj por bloque |
+| [`guion/guion-entrevistado.md`](guion/guion-entrevistado.md) | Checklist de lo que tiene que cubrir cada respuesta y tabla de casos |
+| [`guion/publicacion.md`](guion/publicacion.md) | Mensaje de Discord, título y descripción de YouTube con fuentes |
+
 ## Material crudo
 
 Sin ordenar ni filtrar. La selección es de ustedes.
