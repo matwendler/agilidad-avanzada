@@ -7,6 +7,7 @@ Repositorio de material de la asignatura electiva **Agilidad Avanzada** (Ingenie
 ```
 .
 ├── programa/          Programa analítico oficial (PDF + resumen navegable)
+├── evaluaciones/      Las dos instancias sumativas: consigna, rúbrica, plan
 ├── actividades/       Talleres, salidas y prácticas, una carpeta por actividad
 ├── unidades/          Apuntes por unidad temática
 │   ├── 01-design-thinking/         ✅ con material
@@ -17,6 +18,7 @@ Repositorio de material de la asignatura electiva **Agilidad Avanzada** (Ingenie
 │   └── 06-agilidad-vida-profesional/ ⏳
 └── recursos/
     ├── libros/            PDFs de la bibliografía obligatoria
+    ├── lecturas/          Lecturas recomendadas (local, no se publica)
     ├── fuentes-web/       Sitios crawleados, uno por fuente
     ├── transcripciones/   Transcripciones de videos
     └── enlaces.md         Índice maestro de enlaces y estado de crawling
@@ -27,6 +29,8 @@ Repositorio de material de la asignatura electiva **Agilidad Avanzada** (Ingenie
 | Quiero… | Ir a |
 |---------|------|
 | Ver de qué se trata la materia, cómo se aprueba | [`programa/README.md`](programa/README.md) |
+| **Trabajar en la segunda instancia (videopodcast, entrega 25/11)** | [`evaluaciones/02-videopodcast/`](evaluaciones/02-videopodcast/) |
+| Ver la primera instancia (MARQ, ✅ aprobada) | [`evaluaciones/01-design-thinking-marq/`](evaluaciones/01-design-thinking-marq/) |
 | Estudiar Design Thinking | [`unidades/01-design-thinking/`](unidades/01-design-thinking/) |
 | Preparar la primera reunión del proyecto de consultoría | [`unidades/01-design-thinking/proyecto-consultoria/`](unidades/01-design-thinking/proyecto-consultoria/) |
 | Prepararme para la entrevista con **Estudio MARQ** (vie 04/09) | [`actividades/2026-09-04-entrevista-estudio-marq/`](actividades/2026-09-04-entrevista-estudio-marq/) |
@@ -49,7 +53,7 @@ Repositorio de material de la asignatura electiva **Agilidad Avanzada** (Ingenie
 - **George Anderson — *Design Thinking for Tech*** — marcado `[OBLIGATORIO]` por la cátedra
 - **James Kalbach — *Mapping Experiences*** — Parte 3, para los diagramas
 
-PDFs en [`recursos/libros/`](recursos/libros/). El mapa de qué páginas leer para cada tema está en el [README de la unidad](unidades/01-design-thinking/README.md).
+PDFs en [`recursos/libros/`](recursos/libros/), salvo Kalbach (86 MB), que no se versiona: está en el Drive de la cátedra. El mapa de qué páginas leer para cada tema está en el [README de la unidad](unidades/01-design-thinking/README.md).
 
 ## Fuentes web crawleadas
 
@@ -70,4 +74,5 @@ PDFs en [`recursos/libros/`](recursos/libros/). El mapa de qué páginas leer pa
 
 - Cada archivo de `recursos/fuentes-web/` es **contenido crawleado**, con su URL de origen en el front-matter. No editarlos con opiniones propias: los apuntes van en `unidades/`.
 - Los apuntes de `unidades/` **sintetizan y enlazan**; no duplican el material fuente.
+- El repo es **público**: nada de datos de clientes ni transcripciones. Lo privado va en carpetas `privado/` (ignoradas) o en el repo del equipo de MARQ.
 - Todo enlace nuevo de la cátedra se registra en [`recursos/enlaces.md`](recursos/enlaces.md) con su estado de crawling.

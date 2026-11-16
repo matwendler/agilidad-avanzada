@@ -8,3 +8,8 @@ scratchpad/
 
 # symlinks al motor LearningSchema (rutas absolutas locales)
 .claude/
+marq-consultoria/
+
+# el repo es público: nada de datos de clientes ni PDFs con copyright nuevos
+privado/
+recursos/lecturas/

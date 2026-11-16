@@ -1,7 +1,7 @@
 # 3. Técnicas y Herramientas: Mapa de Empatía, Customer Journey Map, Service Blueprint
 
 > **Bibliografía obligatoria**
-> - `recursos/libros/James Kalbach - Mapping Experiences A Complete Guide...pdf` — **Parte 3** (cap. 9 Service Blueprints, 10 Customer Journey Maps, 11 Experience Maps, 12 Mental Model Diagrams, 13 Spatial Maps & Ecosystem Models). Páginas del libro 227–348 ≈ **pp. 250–371 del PDF**
+> - *James Kalbach — Mapping Experiences* (PDF en el Drive de la cátedra, no versionado) — **Parte 3** (cap. 9 Service Blueprints, 10 Customer Journey Maps, 11 Experience Maps, 12 Mental Model Diagrams, 13 Spatial Maps & Ecosystem Models). Páginas del libro 227–348 ≈ **pp. 250–371 del PDF**
 > - `recursos/libros/Mark Stickdorn - This is Service Design-Doing.pdf` — **pp. 81–155 del PDF** (cap. 3, "Basic Service Design Tools")
 >
 > **Fuentes web crawleadas:** [Creating personas](../../recursos/fuentes-web/tisdd-creating-personas.md) · [Mapping journeys](../../recursos/fuentes-web/tisdd-mapping-journeys.md) · [Mapping systems](../../recursos/fuentes-web/tisdd-mapping-systems.md)

@@ -1,15 +1,15 @@
 # Estado de la materia
 
-Última actualización: <fecha>
+Última actualización: 2026-11-10
 
 ## Evaluación
 
 Estos tres campos los llena el usuario cuando arranca la materia. `simulacro-examen` los
 corrige cuando infiere el formato y el orden desde los parciales viejos.
 
-- Formato de examen:
-- Fechas:
-- Qué orden de aprendizaje mide (recordar / aplicar / analizar / evaluar):
+- Formato de examen: 1ª instancia: consultoría DT para MARQ, en equipo (✅ aprobada). 2ª instancia: videopodcast en dupla ≤ 10 min (70 pts) + defensa oral individual (30 pts). Detalle en `evaluaciones/`.
+- Fechas: Discord 2026-11-17 · entrega 2026-11-25 · defensa 2026-11-27 o 2026-12-04
+- Qué orden de aprendizaje mide (recordar / aplicar / analizar / evaluar): analizar y evaluar (beneficios con condiciones, postura propia) + aplicar a una situación nueva en la defensa
 
 ## Temas
 

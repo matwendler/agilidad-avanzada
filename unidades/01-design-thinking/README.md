@@ -22,6 +22,8 @@
 
 ## Bibliografía por tema
 
+Guía original de la cátedra: [`guia-material-unidad-1.docx`](guia-material-unidad-1.docx).
+
 ### Tema 1 — ¿Qué es Design Thinking?
 
 **OBLIGATORIO**
@@ -49,7 +51,7 @@
 ### Tema 3 — Técnicas y Herramientas
 
 **OBLIGATORIO**
-- `recursos/libros/James Kalbach - Mapping Experiences A Complete Guide...pdf` — **Parte 3** (describe cada diagrama; libro pp. 227–348 ≈ PDF pp. 250–371)
+- *James Kalbach — Mapping Experiences* (PDF en el Drive de la cátedra, no versionado) — **Parte 3** (describe cada diagrama; libro pp. 227–348 ≈ PDF pp. 250–371)
 - `recursos/libros/Mark Stickdorn - This is Service Design-Doing.pdf` — **pp. 81–155 del PDF**
 
 ### Tema 4 — Services Design Thinking
